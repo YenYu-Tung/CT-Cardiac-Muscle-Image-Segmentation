@@ -9,3 +9,5 @@ inference_outputs/
 workspace/dataset/chgh/
 __pycache__/
 **/__pycache__/
+workspace/ray_tmp/
+workspace/exps/
